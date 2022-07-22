@@ -1,5 +1,5 @@
 {
-  "name": "@slickstream/pointer-tracker",
+  "name": "@hivepoint/pointer-tracker",
   "version": "2.0.4",
   "description": "Track mouse/touch/pointer events through one interface",
   "main": "dist/PointerTracker.js",
